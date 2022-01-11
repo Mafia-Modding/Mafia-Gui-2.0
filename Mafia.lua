@@ -4,4 +4,4 @@ local win = DiscordLib:Window("Mafia Cheats")
 
 local serv = win:Server("Mafia Cheats", "")
 
-local btns = serv:Channel("Buttons")
+local aboutchannel = serv:Channel("About Mafia")
